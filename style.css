@@ -319,7 +319,6 @@ footer {
     }
 }
 
-
 /* General Styles */
 body {
     font-family: Arial, sans-serif;
@@ -511,6 +510,7 @@ footer {
 .social-media a:hover {
     color: #f00;
 }
+
 
 /* Responsive Styles */
 @media (max-width: 768px) {
